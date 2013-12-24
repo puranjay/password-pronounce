@@ -1,6 +1,0 @@
-#ifndef RANDRANGE_H
-#define RANDRANGE_H
-
-extern int randrange (int);
-
-#endif
