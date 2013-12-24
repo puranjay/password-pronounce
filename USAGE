@@ -1,0 +1,6 @@
+Once installed, password-pronounce can be used like this:
+
+	password-pronounce [-l length] [-n number]
+
+	length: Length of string required
+	number: Number of strings to be produced
