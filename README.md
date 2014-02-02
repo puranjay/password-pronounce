@@ -1,9 +1,9 @@
 password-pronounce
 ==================
 
-An alphanumeric pronounceable password generator
+password-pronounce is an alphanumeric pronounceable password generator.
 
-
+On inputting a length as an argument, it generates a customizable number of random strings that are human-pronounceable.
 
 
 
@@ -21,10 +21,12 @@ Installation
 
 In the main project directory, use:
 
+        ./configure
         sudo make && make install
 
 If you don't have sudo access, but do have root access, the following will work:
 
+        ./configure
         su -c "make && make install"
         
 To build locally, without installing
